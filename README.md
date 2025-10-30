@@ -68,9 +68,9 @@ hamidportfolio.local/
 ├── .gitignore             # Ignored files (logs, backups, etc.)
 └── README.md              # Project documentation
 
-🔗 Related LinkedIn Post
 
- Read my full LinkedIn post about this project
+
+ [🔗 Read my full LinkedIn post about this project](https://www.linkedin.com/posts/devopshamid_devops-linux-apache-activity-7389670323480244225-z3-a)
 
  Key Takeaway
 
